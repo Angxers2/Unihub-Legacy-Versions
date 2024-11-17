@@ -12,3 +12,8 @@
 
 **V1.8**
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/Angxers2/Unihub-Legacy-Versions/refs/heads/main/Unihub%20V1.8.lua",true))()
+
+**V1.9**
+> loadstring(game:HttpGet("https://raw.githubusercontent.com/Angxers2/Unihub-Legacy-Versions/refs/heads/main/Unihub%20V1.9.lua",true))()
+
+
